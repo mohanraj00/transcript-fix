@@ -1,0 +1,5 @@
+{
+  "name": "Transcript AutoFix Tool",
+  "description": "An intelligent tool to automatically format and enhance raw transcripts into beautifully structured documents.",
+  "requestFramePermissions": []
+}
